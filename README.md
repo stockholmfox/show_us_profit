@@ -1,2 +1,3 @@
 2016.03.01 Launch in Github
+Test for merging branches...
 This is the first project shared by Rising and Rena, used for Python practice.
